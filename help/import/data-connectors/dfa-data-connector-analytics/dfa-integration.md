@@ -49,7 +49,7 @@ The configuration pages provide an overview of the integration, along with helpf
   <tr> 
    <td colname="col1"> 2 </td> 
    <td colname="col2"> User name </td> 
-   <td colname="col3"> The DFA API username to use with this integration. To enable a user for API login, check the API attribute in the DFA interface. After you enable API login, a password field appears to provide a password for the user. This password is entered along with the username into the wizard to authenticate. </td> 
+   <td colname="col3"> The DFA API username to use with this integration. To enable a user for API login, check the API attribute in the DFA interface. After you enable API login, a password field appears to provide a password for the user. This password is entered along with the username into the wizard to authenticate. <a href='https://helpx.adobe.com/analytics/kb/linking-dcm-account-to-adobe-data-connectors.html'>How to setup your user name in DFA</a></td> 
   </tr> 
   <tr> 
    <td colname="col1"> 2 </td> 
